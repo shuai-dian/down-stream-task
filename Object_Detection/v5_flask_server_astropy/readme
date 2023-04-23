@@ -1,0 +1,10 @@
+URL:127.0.0.1:5002/ai_api
+请求方式:POST
+请求参数:
+
+参数名        类型      是否必须      描述     说明
+imei:        0  (int)            云服务链接
+             1                   image
+             2                   fits
+             3                   video
+             4                   file
